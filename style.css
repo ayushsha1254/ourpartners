@@ -1,0 +1,289 @@
+.row.heading h2 {
+    color: #fff;
+    font-size: 52.52px;
+    line-height: 95px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    margin: 0 0 40px;
+    padding-bottom: 20px;
+
+}
+
+.line {
+    position: relative;
+    width: 218px;
+    margin-top: -50px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+
+    border: 5px solid #134865;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.heading.heading-icon {
+    display: block;
+}
+
+.padding-lg {
+    display: block;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.practice-area.padding-lg {
+    padding-bottom: 55px;
+    padding-top: 55px;
+}
+
+.practice-area .inner {
+    border: 1px solid #999999;
+    text-align: center;
+    margin-bottom: 28px;
+    padding: 40px 25px;
+}
+
+.practice-area .inner h3 {
+    color: #3c3c3c;
+    font-size: 24px;
+    font-weight: 500;
+    font-family: Inter;
+    font-style: normal;
+    padding: 10px 0;
+}
+
+.practice-area .inner p {
+    font-size: 14px;
+    line-height: 22px;
+    font-weight: 400;
+}
+
+.practice-area .inner img {
+    display: inline-block;
+}
+
+
+.head {
+    background-color: #1C6B97;
+
+}
+
+.head .cnt-block {
+    float: left;
+    width: 100%;
+
+    padding: 30px 20px;
+    text-align: center;
+    border: 2px solid #1C6B97;
+    margin: 0 0 28px;
+}
+
+.head .cnt-block figure {
+    width: 148px;
+    height: 148px;
+    border-radius: 100%;
+    display: inline-block;
+    margin-bottom: 15px;
+}
+
+.head .cnt-block img {
+    width: 148px;
+    height: 148px;
+    border-radius: 100%;
+}
+
+.head .cnt-block h3 {
+    color: #2a2a2a;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 6px 0;
+    text-transform: uppercase;
+}
+
+.head .cnt-block h3 a {
+    text-decoration: none;
+    color: #2a2a2a;
+}
+
+.head .cnt-block h3 a:hover {
+    color: #337ab7;
+}
+
+.head .cnt-block p {
+    color: #2a2a2a;
+    font-size: 13px;
+    line-height: 20px;
+    font-weight: 400;
+}
+
+.head .cnt-block .follow-us {
+    margin: 20px 0 0;
+}
+
+.head .cnt-block .follow-us li {
+    display: inline-block;
+    width: auto;
+    margin: 0 5px;
+}
+
+.head .cnt-block .follow-us li .fa {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.head .cnt-block .follow-us li .fa:hover {
+    color: #ffffff;
+}
+
+.foot {
+    width: auto;
+    height: auto;
+    margin: auto;
+    left: 0px;
+    right: 0px;
+    top: 722px;
+
+    background: #2E2F36;
+}
+
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.quick_links {
+    padding-top: 15px;
+    padding-left: 12px;
+    padding-bottom: 12px;
+}
+
+.quick {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+
+.home {
+    color: #C4C4C4;
+}
+
+.about {
+    color: #C4C4C4;
+}
+
+.event {
+    color: #C4C4C4;
+}
+
+.podcast {
+    color: #C4C4C4;
+}
+
+.blog {
+    color: #C4C4C4;
+}
+
+.contact {
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 12px;
+}
+
+.contactus {
+    display: inline-block;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.emph {
+    padding-top: 20px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+
+
+    color: #C4C4C4;
+}
+
+.det {
+    color: #C4C4C4;
+}
+
+.follow {
+    padding-top: 15px;
+    padding-left: 50px;
+    padding-bottom: 12px;
+}
+
+.followus {
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.handles {
+    color: #ffffff;
+}
+
+.face {
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+    padding-bottom: 40px;
+}
+
+.tweet {
+    text-decoration: none;
+    color: white;
+    padding-bottom: 40px;
+}
+
+.linkedin {
+    text-decoration: none;
+    color: white;
+    padding-right: 20px;
+}
+
+.insta {
+    text-decoration: none;
+    color: white;
+}
+
+.copyright {
+    margin-top: 0%;
+    margin-bottom: 0%;
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    
+
+
+    color: #000000;
+}
